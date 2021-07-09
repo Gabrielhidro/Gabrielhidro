@@ -7,7 +7,7 @@
 <p>
   I'm Gabriel Freitas, actually studing for became a refference of FrontEnd development in <b>Brazil</b>.
   <br/>
-  I'm currently working as a Junior BackEnd Developer at <a href="https://agenciar8.com.br/">Agencia R8</a>.
+  I'm currently working as a Junior Front-End Developer at <a href="https://agenciar8.com.br/">Agencia R8</a>.
 </p>
 
 ### Talking About Personal Stuffs
@@ -45,11 +45,6 @@ _______________________________________________________________
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielhidro&show_icons=true&theme=dracula&locale=en" alt="gabrielhidro" />
 </p>
-
-<br />
-
-<p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielhidro&show_icons=true&theme=dracula&locale=en&layout=compact" alt="gabrielhidro"/></p>
 
 <br />
 
