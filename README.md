@@ -7,7 +7,7 @@
 <p>
   I'm Gabriel Freitas, actually studing for became a refference of FrontEnd development in <b>Brazil</b>.
   <br/>
-  I'm currently working as a Junior Front-End Developer at <a href="https://agenciar8.com.br/">Agencia R8</a>.
+  I'm currently working as a Junior Front-End Developer at <a href="https://www.kinvo.com.br/">Kinvo</a>.
 </p>
 
 ### Talking About Personal Stuffs
