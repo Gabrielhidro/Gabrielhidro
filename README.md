@@ -5,9 +5,9 @@
 ### 🌍 Welcome To My World!
 
 <p>
-  I'm Gabriel Freitas, actually studing for became a refference of FrontEnd development in <b>Brazil</b>.
+  I'm Gabriel Freitas, currently work as a FrontEnd development in <b>Brazil</b>.
   <br/>
-  I'm currently working as a Junior Front-End Developer at <a href="https://www.kinvo.com.br/">Woli Labs</a>.
+  I'm currently working as a middle Front-End Developer at <a href="https://www.woli.com.br/">Woli Labs</a>.
 </p>
 
 ### Talking About Personal Stuffs
